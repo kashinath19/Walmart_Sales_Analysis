@@ -115,7 +115,7 @@ Excel: For initial data cleaning and preparation.
 
 Sales Trends:
 
-Peak sales were observed in January 2024 and July 2025.
+Peak sales were observed in January 2024 .
 
 Electronics and Groceries emerged as the top-performing categories.
 
